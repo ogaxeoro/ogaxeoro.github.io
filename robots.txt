@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogaxeoro.github.io/EMj/sitemap_index.txt
+Sitemap: https://ogaxeoro.github.io/HaG/sitemap_index.txt
+Sitemap: https://ogaxeoro.github.io/sCA/sitemap_index.txt
+Sitemap: https://ogaxeoro.github.io/wGN/sitemap_index.txt
